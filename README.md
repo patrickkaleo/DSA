@@ -1,2 +1,2 @@
 # DSA in `java`
-My implementation of data structures from cos212 [Data structures and algorithms] @ university of pretoria 
+My implementation of data structures from cos212 [Data structures and algorithms] @ university of pretoria using 
